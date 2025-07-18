@@ -20,7 +20,7 @@ $ python -m venv autogenenv
 $ source autogenenv/bin/activate
 
 # install autogen
-$ pip install pyautogen
+$ pip install ag2
 
 # sklearn
 $ pip install -U scikit-learn scipy matplotlib
